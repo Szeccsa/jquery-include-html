@@ -2,7 +2,7 @@
 
 A better way to include documents when using HTML. (Actually a dumber idea but who cares? It's Jquery) :D
 
-This script brings "<?php  $path = $_SERVER['DOCUMENT_ROOT']; $path .= "/index.php"; include_once($path); ?>" to HTML by doing the same thing as "<?php  $path = $_SERVER['DOCUMENT_ROOT']; $path .= "/index.php"; include_once($path); ?>".
+This script brings "&lt;?php  $path = $_SERVER['DOCUMENT_ROOT']; $path .= "/index.php"; include_once($path); ?&gt;" to HTML by doing the same thing as "&lt;?php  $path = $_SERVER['DOCUMENT_ROOT']; $path .= "/index.php"; include_once($path); ?&gt;".
 
 ## Requirements
 
