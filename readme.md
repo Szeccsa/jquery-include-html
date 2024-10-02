@@ -12,7 +12,7 @@ This is basically HTML include HTML by W3Schools but with Jquery. <a href="https
 
 ## How to use?
 
-1. Download or link the latest Jquery library via CDN into your &lt;head&gt; like this: &lt;script src="https://code.jquery.com/jquery-3.7.1.min.js"></script&gt;.
+1. Download or link the latest Jquery library via CDN into your &lt;head&gt; like this: &lt;script src="/path/to/jquery.js"></script&gt;.
 
 2. Download the script.js file and include it in your &lt;head&gt; like this: &lt;script type="text/javascript" src="/path/to/script.js"></script&gt;.
 
