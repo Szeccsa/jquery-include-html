@@ -25,7 +25,7 @@ IT'S IMPORTANT TO LOAD THE JQUERY LIBRARY BEFORE THE SCRIPT.JS OR IT WILL NOT WO
 ## Difference from W3Schools script
 
 - Built on top of Jquery
-- Does NOT require the &lt;script> includeHTML(); </script&gt argument at the bottom of the page
+- Does NOT require the &lt;script> includeHTML(); </script&gt; argument at the bottom of the page
 
 ## Known issues
 
