@@ -7,8 +7,8 @@ This is basically HTML include HTML by W3Schools but with Jquery. <a href="https
 
 ## Requirements
 
-- Up-To-Date Jquery library
-- Brain
+- Latest Jquery library.
+- Brain.
 
 ## How to use?
 
@@ -22,13 +22,18 @@ This is basically HTML include HTML by W3Schools but with Jquery. <a href="https
    
 IT'S IMPORTANT TO LOAD THE JQUERY LIBRARY BEFORE THE SCRIPT.JS OR IT WILL NOT WORK.
 
+## Difference from W3Schools script
+
+- Built on top of Jquery.
+- Does NOT require the &lt;script> includeHTML(); </script&gt argument at the bottom of the page.
+
 ## Known issues
 
 - Scripts inside the included document(s) are working with workarounds but by default it ends up breaking with no error in the console.
 
 ## Live demo
 
-Check out the repository or the source code in dev tools of my personal website where I use this technology to test, debug and update if needed. (I'm also a consumer ofthis product.)
+Check out the repository or the source code in dev tools of my personal website where I use this technology to test, debug and update if needed. (I'm also a consumer of this product.)
 
 <a href="https://szeccsa.github.io/" target="blank">Click here to visit my website</a>
 
