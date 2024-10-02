@@ -2,7 +2,7 @@
 
 A better way to include documents when using HTML. (Actually a dumber idea but who cares? It's Jquery) :D
 
-This script brings "PHP include" function to HTML by doing the same thing as "PHP include" Since Github is not providing PHP or any server-side code to us I decided to find other solutions to my problems.
+This script brings "PHP include" function to HTML by doing the same thing as "PHP include". Since Github is not providing PHP or any server-side code to us I decided to find other solutions to my problems.
 This is basically HTML include HTML by W3Schools but with Jquery. <a href="https://www.w3schools.com/howto/howto_html_include.asp" target="blank">Click here to visit W3Schools</a>
 
 ## Requirements
