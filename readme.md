@@ -29,7 +29,9 @@ IT'S IMPORTANT TO LOAD THE JQUERY LIBRARY BEFORE THE SCRIPT.JS OR IT WILL NOT WO
 
 ## Known issues
 
-- Scripts inside the included document(s) are working with workarounds but by default it ends up breaking with no error in the console.
+- Scripts inside the included document(s) are working with workarounds but by default it ends up breaking with no error in the console. It's some DOM releated stuff I can't figure out. I hate JavaScript.
+
+<img src="/fasz.jpg" alt="fasz" width="75px" height="75px">
 
 ## Live demo
 
