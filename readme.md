@@ -28,7 +28,7 @@ IT'S IMPORTANT TO LOAD THE JQUERY LIBRARY BEFORE THE SCRIPT.JS OR IT WILL NOT WO
 
 ## Live demo
 
-Check out the repository or the source code in dev tools of my personal website where I use this technology to test, debug and update if needed.
+Check out the repository or the source code in dev tools of my personal website where I use this technology to test, debug and update if needed. (I'm also a consumer ofthis product.)
 
 <a href="https://szeccsa.github.io/" target="blank">Click here to visit my website</a>
 
