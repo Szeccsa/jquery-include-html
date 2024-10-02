@@ -2,7 +2,7 @@
 
 A better way to include documents when using HTML. (Actually a dumber idea but who cares? It's Jquery) :D
 
-This script brings "PHP include" function to HTML by doing the same thing as "PHP include". Since Github is not providing PHP or any server-side code to us I decided to find other solutions to my problems.
+This script brings the "PHP include" function to HTML by doing the same thing as "PHP include" (kinda). Since Github is not providing PHP or any server-side code to us I decided to find other solutions to my problems.
 This is basically HTML include HTML by W3Schools but with Jquery. <a href="https://www.w3schools.com/howto/howto_html_include.asp" target="blank">Click here to visit W3Schools</a>
 
 ## Requirements
@@ -18,7 +18,7 @@ This is basically HTML include HTML by W3Schools but with Jquery. <a href="https
 
 3. Create a document that you want to include into your main index.html and write the stuff you need to write into it.
 
-4. In your main index.html create an element like: &lt;header&gt; and add the "include-html=""" argument into the tag. It should look like this: &lt;header include-html="/path/to/included/index.html" class="header"&gt;.
+4. In your main index.html create an element like: &lt;header&gt; and add the "include-html=" argument into the tag. It should look like this: &lt;header include-html="/path/to/included/index.html" class="header"&gt;.
    
 IT'S IMPORTANT TO LOAD THE JQUERY LIBRARY BEFORE THE SCRIPT.JS OR IT WILL NOT WORK.
 
