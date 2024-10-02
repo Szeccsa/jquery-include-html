@@ -38,3 +38,5 @@ Check out the repository or the source code in dev tools of my personal website 
 <a href="https://szeccsa.github.io/" target="blank">Click here to visit my website</a>
 
 <a href="https://github.com/Szeccsa/szeccsa.github.io" target="blank">Click here to visit the repository of my website</a>
+
+Markdown is not supporting the target="_blank" argument in the anchor tag but it's there, basszam meg a száját. (Some angry Hungarian swearing)
